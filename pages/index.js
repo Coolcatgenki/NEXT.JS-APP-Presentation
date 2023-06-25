@@ -62,7 +62,7 @@ export default function Home() {
     <div className='RealProjects'>
      <div className='title-samples'>
       <h1 className='title-projetcs'>Deployed Samples</h1>
-      <p>(The response of the api or the node-apps can take around a minute because it scale down if it was not being use)</p>
+      <p>(The response of the api or the node-apps can take around a minute because it scale down when is not being use)</p>
       <hr/>
      </div>
      <div className='Projects-Divisor'>

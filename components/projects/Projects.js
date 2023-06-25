@@ -11,7 +11,7 @@ const projects=[
         id: 2,
         img:"../images/BlogSite.jpg",
         name: "Blog-History Page",
-        explanation:`A node-express app for creators. Anyone can see the content in home, but the editor menu is just for the ones who knows the secret user and the secret url. It has a premade unique passport-local authentication with the following credentials=> Username:Editorial2023||Password:Potatos2023encrypted`,
+        explanation:`A node-express app. Anyone can see the content in home, but the editor menu is just for the ones who knows the secret user and the secret url. It has a premade unique passport-local authentication with the following credentials=> Username:Editorial2023||Password:Potatos2023encrypted`,
         link:'https://blog-history-report-site.onrender.com/JXfg4cTnhZdPRYqXuFrwvcJOUYzaoDkf'
     },
 

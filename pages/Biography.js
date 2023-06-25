@@ -36,7 +36,7 @@ export default function New(){
                 <hr/>
                 <br/>
                 <br/>
-                 <p className="bottom-p">I studied systems engineering for 2 years at the national university of Trujillo and simply fell in love with programming (studies currently on hiatus). I migrated to Japan and entered a short programming job where I was trained with the basics of JavaScript, CSS, and more. Since then I have not stopped expanding my knowledge. My native language is Spanish, I am proficient in English and I have a level of N4 in Japanese.</p>
+                 <p className="bottom-p">I studied systems engineering for 2 years at the national university of Trujillo and simply fell in love with programming (studies currently on pause). I migrated to Japan and entered a short programming job where I was trained with the basics of JavaScript, CSS, and more. Since then I have not stopped expanding my knowledge. My native language is Spanish, I am proficient in English and I have a level of N4 in Japanese.</p>
             </div>
         </section>
         </main>
